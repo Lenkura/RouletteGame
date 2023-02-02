@@ -1,0 +1,404 @@
+[INFO] ausroulette.view.LoggerCallback playerAdded
+Player ID: "P1", Name: "Lad"
+Points: 123, Available Points: 123
+Current Bets: 0, Total Bet: 0
+
+[INFO] ausroulette.view.LoggerCallback spinStart
+      Spin #01 **Start** - Pocket:  #0 Green
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #001 - Pocket: #32 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #002 - Pocket: #15 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #003 - Pocket: #19 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #004 - Pocket:  #4 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #005 - Pocket: #21 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #006 - Pocket:  #2 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #007 - Pocket: #25 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #008 - Pocket: #17 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #009 - Pocket: #34 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #010 - Pocket:  #6 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #011 - Pocket: #27 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #012 - Pocket: #13 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #013 - Pocket: #36 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #014 - Pocket: #11 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #015 - Pocket: #30 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #016 - Pocket:  #8 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #017 - Pocket: #23 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #018 - Pocket: #10 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #019 - Pocket:  #5 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #020 - Pocket: #24 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #021 - Pocket: #16 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #022 - Pocket: #33 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #023 - Pocket:  #1 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #024 - Pocket: #20 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #025 - Pocket: #14 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #026 - Pocket: #31 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #027 - Pocket:  #9 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #028 - Pocket: #22 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #029 - Pocket: #18 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #030 - Pocket: #29 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #031 - Pocket:  #7 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #032 - Pocket: #28 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #033 - Pocket: #12 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #034 - Pocket: #35 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #035 - Pocket:  #3 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #036 - Pocket: #26 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #037 - Pocket:  #0 Green
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #038 - Pocket: #32 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #039 - Pocket: #15 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #040 - Pocket: #19 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #041 - Pocket:  #4 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #042 - Pocket: #21 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #043 - Pocket:  #2 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #044 - Pocket: #25 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #045 - Pocket: #17 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #046 - Pocket: #34 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #047 - Pocket:  #6 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #048 - Pocket: #27 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #049 - Pocket: #13 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #050 - Pocket: #36 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #051 - Pocket: #11 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #052 - Pocket: #30 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #053 - Pocket:  #8 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #054 - Pocket: #23 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #055 - Pocket: #10 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #056 - Pocket:  #5 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #057 - Pocket: #24 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #058 - Pocket: #16 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #059 - Pocket: #33 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #060 - Pocket:  #1 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #061 - Pocket: #20 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #062 - Pocket: #14 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #063 - Pocket: #31 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #064 - Pocket:  #9 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #065 - Pocket: #22 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #066 - Pocket: #18 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #067 - Pocket: #29 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #068 - Pocket:  #7 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #069 - Pocket: #28 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #070 - Pocket: #12 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #071 - Pocket: #35 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #072 - Pocket:  #3 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #073 - Pocket: #26 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #074 - Pocket:  #0 Green
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #075 - Pocket: #32 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #076 - Pocket: #15 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #077 - Pocket: #19 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #078 - Pocket:  #4 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #079 - Pocket: #21 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #080 - Pocket:  #2 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #081 - Pocket: #25 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #082 - Pocket: #17 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #083 - Pocket: #34 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #084 - Pocket:  #6 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #085 - Pocket: #27 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #086 - Pocket: #13 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #087 - Pocket: #36 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #088 - Pocket: #11 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #089 - Pocket: #30 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #090 - Pocket:  #8 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #091 - Pocket: #23 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #092 - Pocket: #10 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #093 - Pocket:  #5 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #094 - Pocket: #24 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #095 - Pocket: #16 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #096 - Pocket: #33 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #097 - Pocket:  #1 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #098 - Pocket: #20 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #099 - Pocket: #14 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #100 - Pocket: #31 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #101 - Pocket:  #9 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #102 - Pocket: #22 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #103 - Pocket: #18 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #104 - Pocket: #29 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #105 - Pocket:  #7 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #106 - Pocket: #28 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #107 - Pocket: #12 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #108 - Pocket: #35 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #109 - Pocket:  #3 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #110 - Pocket: #26 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #111 - Pocket:  #0 Green
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #112 - Pocket: #32 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #113 - Pocket: #15 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #114 - Pocket: #19 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #115 - Pocket:  #4 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #116 - Pocket: #21 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #117 - Pocket:  #2 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #118 - Pocket: #25 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #119 - Pocket: #17 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #120 - Pocket: #34 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #121 - Pocket:  #6 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #122 - Pocket: #27 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #123 - Pocket: #13 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #124 - Pocket: #36 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #125 - Pocket: #11 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #126 - Pocket: #30 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #127 - Pocket:  #8 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #128 - Pocket: #23 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #129 - Pocket: #10 Black
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #130 - Pocket:  #5 Red
+
+[FINE] ausroulette.view.LoggerCallback spinTick
+      Spin #01 Tick #131 - Pocket: #24 Black
+
+[INFO] ausroulette.view.LoggerCallback spinResult
+      Spin #01 *Result** - Pocket: #16 Red
+

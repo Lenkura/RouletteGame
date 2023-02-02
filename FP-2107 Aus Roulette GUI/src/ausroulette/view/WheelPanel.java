@@ -18,8 +18,8 @@ import ausroulette.model.wheel.Wheel;
 
 @SuppressWarnings("serial")
 public class WheelPanel extends JPanel implements PropertyChangeListener {
-	private Image wheel = new ImageIcon("images/wheel.png").getImage();
-	private Image arrow = new ImageIcon("images/arrow.png").getImage();
+	private Image wheel = new ImageIcon("FP-2107 Aus Roulette GUI/images/wheel.png").getImage();
+	private Image arrow = new ImageIcon("FP-2107 Aus Roulette GUI/images/arrow.png").getImage();
 	private int[] wheelNumbers = Wheel.POCKET_NUMBERS;
 	private double wheelAngle;
 	private double wheelspinadjustment = 0.7;

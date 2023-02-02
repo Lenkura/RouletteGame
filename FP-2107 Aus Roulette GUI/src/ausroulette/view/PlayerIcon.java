@@ -9,7 +9,7 @@ public enum PlayerIcon {
 	private String playerID;
 
 	private PlayerIcon() {
-		icon = new ImageIcon(String.format("images/%s.png", this.name().toLowerCase()));
+		icon = new ImageIcon(String.format("FP-2107 Aus Roulette GUI/images/%s.png", this.name().toLowerCase()));
 		playerID = "";
 	}
 

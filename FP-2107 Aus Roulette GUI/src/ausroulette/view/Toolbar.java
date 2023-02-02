@@ -42,7 +42,7 @@ public class Toolbar extends JToolBar implements PropertyChangeListener {
 		playerbox.addActionListener(new toolbarComboBoxListener(rouletteMenu, playerbox));
 		add((playerbox));
 
-		JButton addPlayer = new JButton(new ImageIcon("images/addplayericon.png"));
+		JButton addPlayer = new JButton(new ImageIcon("FP-2107 Aus Roulette GUI/images/addplayericon.png"));
 		// Sourcec:
 		// https://cdn2.iconfinder.com/data/icons/user-profile-1/100/player-profile-add-512.png
 		addPlayer.addActionListener(new OpenAddPlayerDialogListener(ge));
@@ -50,7 +50,7 @@ public class Toolbar extends JToolBar implements PropertyChangeListener {
 		disabledIfSpinning.add(addPlayer);
 		add(addPlayer);
 
-		JButton addPoints = new JButton(new ImageIcon("images/addpointsicon.png"));
+		JButton addPoints = new JButton(new ImageIcon("FP-2107 Aus Roulette GUI/images/addpointsicon.png"));
 		// Source:
 		// https://www.flaticon.com/svg/vstatic/svg/4291/4291393.svg?token=exp=1620471787~hmac=46fa51a9d3eaa1cb5ef8d17102d27c81
 		addPoints.addActionListener(new OpenAddPointsDialogListener(ge));
@@ -59,7 +59,7 @@ public class Toolbar extends JToolBar implements PropertyChangeListener {
 		disabledIfSpinning.add(addPoints);
 		add(addPoints);
 
-		JButton addBets = new JButton(new ImageIcon("images/addbeticon.png"));
+		JButton addBets = new JButton(new ImageIcon("FP-2107 Aus Roulette GUI/images/addbeticon.png"));
 		// Source:
 		// https://cdn1.iconfinder.com/data/icons/casino-poker/100/Casino-13-512.png
 		addBets.addActionListener(new OpenAddBetDialogListener(ge));
@@ -68,7 +68,7 @@ public class Toolbar extends JToolBar implements PropertyChangeListener {
 		disabledIfSpinning.add(addBets);
 		add(addBets);
 
-		JButton removeBet = new JButton(new ImageIcon("images/removebeticon.png"));
+		JButton removeBet = new JButton(new ImageIcon("FP-2107 Aus Roulette GUI/images/removebeticon.png"));
 		removeBet.setToolTipText("Remove Bet");
 		removeBet.addActionListener(new OpenRemoveBetListener(ge));
 		disabledIfNoPlayers.add(removeBet);
@@ -76,14 +76,14 @@ public class Toolbar extends JToolBar implements PropertyChangeListener {
 		disabledIfSpinning.add(removeBet);
 		add(removeBet);
 
-		JButton cashOut = new JButton(new ImageIcon("images/cashout.png"));
+		JButton cashOut = new JButton(new ImageIcon("FP-2107 Aus Roulette GUI/images/cashout.png"));
 		cashOut.setToolTipText("Remove Player");
 		cashOut.addActionListener(new OpenRemovePlayerDialogListener(ge));
 		disabledIfNoPlayers.add(cashOut);
 		disabledIfSpinning.add(cashOut);
 		add(cashOut);
 
-		JButton spinWheel = new JButton(new ImageIcon("images/wheelicon.png"));
+		JButton spinWheel = new JButton(new ImageIcon("FP-2107 Aus Roulette GUI/images/wheelicon.png"));
 		spinWheel.setToolTipText("Spin wheel");
 		spinWheel.addActionListener(new SpinWheelToWin(ge, settings));
 		add(spinWheel);

@@ -26,7 +26,7 @@ import ausroulette.view.LoggerCallback;
  */
 public class GameEngineTest
 {
-	
+	/* 
 	public static void main(String[] args)
 	{
 		GameEngine ge = new GameEngineImpl();
@@ -87,5 +87,5 @@ public class GameEngineTest
 		ge.spinToWin(40, 125, 0);
 		
 	}
-	
+	*/
 }
